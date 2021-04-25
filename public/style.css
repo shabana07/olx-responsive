@@ -1,0 +1,45 @@
+/* d-none d-lg-flex */
+/* d-md-none d-lg-flex */
+.navBar{
+    margin-top: 80px;
+}
+.navItem{
+    width: 700px;
+}
+.navItem:active {
+    outline: none ;
+}
+.dropdown-toggle:focus {
+    outline: none;
+}
+.sell{
+    border-top: 4px solid aqua !important;
+    border-left: 4px solid orange !important;
+    border-bottom: 4px solid blue !important;
+    border-right: 4px solid blue !important;
+    width: 100px;
+}
+.but:hover{
+    border: 6px solid black !important;
+}
+.gray{
+    background-color: rgb(240, 240, 240);
+}
+.list li{
+    list-style-type: none;
+    color: gray;
+}
+.nav-item a{
+    color: gray;
+    font-size: 14px;
+}
+.green{
+    background-color: rgb(34, 53, 46);
+}
+.para{
+    font-size: 16px;
+    color: grey;
+}
+.dropdown-menu{
+    height: 300px;
+}
